@@ -1,3 +1,15 @@
-Ce projet est une page d'accueil pour un magasin de vidéo en ligne, développée pour une start-up technologique. Le projet inclut la conception de maquettes fonctionnelles et esthétiques (low-fidelity et high-fidelity) à l'aide de Figma, ainsi que le développement complet de la page en HTML et CSS.
+Homepage - Agence de Voyage
+Description
+L'objectif de ce projet est de concevoir et de développer une page d'accueil (Home) pour une agence de voyage. La page a été conçue pour être attrayante, intuitive, et responsive, tout en mettant en valeur les services offerts par l'agence.
 
-Le design a été réalisé en plusieurs sections logiques, permettant une intégration fluide pour le développement front-end. L'objectif était de rendre la page d'accueil à la fois visuellement attrayante et fonctionnelle pour une expérience utilisateur optimale.
+Le développement a suivi un processus structuré, passant par plusieurs étapes clés, incluant la création d'une maquette sur Figma (low-fidelity et high-fidelity), puis la découpe de la maquette en sections logiques, et enfin le développement en utilisant HTML et CSS.
+
+Objectifs du Projet
+Concevoir une page web attrayante et responsive pour une agence de voyage.
+Créer une maquette low-fidelity et high-fidelity sur Figma.
+Découper la maquette en sections logiques prêtes à être développées.
+Intégrer le design et développer la page en utilisant uniquement HTML et CSS.
+Technologies Utilisées
+Figma pour la conception des maquettes.
+HTML pour structurer la page web.
+CSS pour la mise en forme .
