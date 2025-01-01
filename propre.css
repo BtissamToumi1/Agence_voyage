@@ -86,3 +86,6 @@ button:hover{
 .sect3 p span{
     font-weight: bold;
 }
+.sect4{
+    display: flex;
+}
