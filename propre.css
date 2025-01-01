@@ -30,6 +30,10 @@ ul li a{
     margin-right: 0px;
     display: flex;
 }
+.sect1 img{
+    width:200px ;
+    height:auto;
+}
 section{
     padding:30px;
     margin: 30px;
