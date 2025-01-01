@@ -34,7 +34,14 @@ section{
     display: flex;
 }
 .text{
-    margin-right:700px;
+    margin-right:500px;
+    margin-left: 60px;
+}
+.text h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:normal;
+    font-size: 40px;
+    font-weight: bold;
 }
 #image1{
     height:400px;
