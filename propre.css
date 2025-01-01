@@ -40,7 +40,7 @@ section{
     display: flex;
 }
 .text{
-    margin-right:500px;
+    margin-right:400px;
     margin-left: 60px;
 }
 .text h1{
@@ -50,9 +50,9 @@ section{
     font-weight: bold;
 }
 .sect1 p{
-    font-family:sans-serif;
+    font-family:arial;
     font-style:normal;
-    font-size: 10px;
+    font-size: 8px;
     font-weight: normal;
 }
 #image1{
@@ -67,10 +67,22 @@ button{
     border: none;
     border-radius: 5px;
     color:#ffffff;
+    width: 100px;
+    height: 30px;
 }
 button:hover{
     background-color: rgb(123, 111, 111);
 }
 .sect1 nav ul button{
     margin-left: 25px;
+}
+.sect3{
+    background-color: #fdf0ea;
+    border-radius: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+   
+}
+.sect3 p span{
+    font-weight: bold;
 }
